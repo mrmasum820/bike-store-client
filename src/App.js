@@ -16,7 +16,6 @@ import Pay from './Pages/Dashboard/Pay/Pay';
 import MyOrder from './Pages/Dashboard/MyOrder/MyOrder';
 import GiveReview from './Pages/Dashboard/GiveReview/GiveReview';
 import MakeAdmin from './Pages/Dashboard/MakeAdmin/MakeAdmin';
-import AdminRoute from './Pages/LogIn/AdminRoute/AdminRoute';
 import ManageAllOrders from './Pages/Dashboard/ManageAllOrders/ManageAllOrders';
 import ManageProduct from './Pages/Dashboard/ManageProduct/ManageProduct';
 import AddProduct from './Pages/Dashboard/AddProduct/AddProduct';

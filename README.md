@@ -1,12 +1,24 @@
-# Getting Started with Create React App
+# Bike Store Website project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Project Name: Bike Store Website
+
+- Project Description: 3000+ unbiased, verified reviews from bike owners.Know the pros and cons of 200+ bike models from real owners.
+
+- Time to talk about video games again, friends! Back in July of 2017, I stated that Ride 2—produced by Italian game house Milestone S.r.l.—was one of the five best motorcycle video games ever made. A bold statement sure, but one I stand by. Now, after endless rumors and will they/won't they, Milestone announced that it's releasing the long-awaited sequel
+
+## code link with live site
+
+- client side link of the project(https://github.com/programming-hero-web-course-4/niche-website-client-side-mrmasum820)
+
+- server side link of the project(https://github.com/programming-hero-web-course-4/niche-website-server-side-mrmasum820/tree/main)
+
+- live site link here(https://bike-store-2a21f.web.app/)
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,12 +26,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test`
+### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
+### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
@@ -29,7 +41,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `yarn eject`
+### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -65,6 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `yarn build` fails to minify
+### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
