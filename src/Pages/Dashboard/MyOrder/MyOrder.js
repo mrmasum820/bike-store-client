@@ -10,7 +10,7 @@ const MyOrder = () => {
     const { user } = useAuth();
     const { uid } = user;
     useEffect(() => {
-        fetch(`https://rocky-mesa-75281.herokuapp.com/81.herokuapp.com/orders/${uid}`)
+        fetch(`https://rocky-mesa-75281.herokuapp.com/orders/${uid}`)
             .then(res => res.json())
             .then(data => setOrders(data))
     }, [uid]);
@@ -18,7 +18,7 @@ const MyOrder = () => {
 
         const proceed = window.confirm('Are you sure, you want to delete?');
         if (proceed) {
-            const url = `https://rocky-mesa-75281.herokuapp.com/81.herokuapp.com/orders/${key}`
+            const url = `https://rocky-mesa-75281.herokuapp.com/orders/${key}`
             fetch(url, {
                 method: 'DELETE'
             })

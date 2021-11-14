@@ -11,7 +11,7 @@ const ManageProduct = () => {
 
         const proceed = window.confirm('Are you sure, you want to delete?');
         if (proceed) {
-            const url = `https://rocky-mesa-75281.herokuapp.com/81.herokuapp.com/products/${key}`
+            const url = `https://rocky-mesa-75281.herokuapp.com/products/${key}`
             fetch(url, {
                 method: 'DELETE'
             })
