@@ -8,9 +8,9 @@
 
 ## code link with live site
 
-- client side link of the project(https://github.com/programming-hero-web-course-4/niche-website-client-side-mrmasum820)
+- client side link of the project(https://github.com/mrmasum820/bike-store-client)
 
-- server side link of the project(https://github.com/programming-hero-web-course-4/niche-website-server-side-mrmasum820/tree/main)
+- server side link of the project(https://github.com/mrmasum820/bike-store-server)
 
 - live site link here(https://bike-store-2a21f.web.app/)
 
